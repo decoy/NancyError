@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError", "NancyError.csproj", "{C568B821-9562-4233-8B49-DDBA5613B504}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError", "NancyError\NancyError.csproj", "{C568B821-9562-4233-8B49-DDBA5613B504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError.Test", "..\NancyError.Test\NancyError.Test.csproj", "{C555AAA7-9195-4D54-AE54-C42E513BF53C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError.Test", "NancyError.Test\NancyError.Test.csproj", "{C555AAA7-9195-4D54-AE54-C42E513BF53C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

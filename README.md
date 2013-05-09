@@ -3,7 +3,7 @@ NancyError
 
 Testing problem with Nancy testing.
 
-
+```
 Test Name:  TestMethod1
 Test FullName:	Eightlabs.CardGame.TestWin.UnitTest1.TestMethod1
 Test Source:	c:\dev\Eightlabs.CardGame\src\Eightlabs.CardGame.TestWin\UnitTest1.cs : line 19
@@ -22,3 +22,4 @@ at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
    at Nancy.Testing.Browser..ctor(INancyBootstrapper bootstrapper)
    at Eightlabs.CardGame.TestWin.UnitTest1.TestMethod1() in c:\dev\Eightlabs.CardGame\src\Eightlabs.CardGame.TestWin\UnitTest1.cs:line 27
 
+```

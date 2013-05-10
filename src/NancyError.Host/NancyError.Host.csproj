@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\NancyError\NancyError.csproj">
+    <ProjectReference Include="..\NancyError\NancyError.csproj">
       <Project>{c568b821-9562-4233-8b49-ddba5613b504}</Project>
       <Name>NancyError</Name>
     </ProjectReference>

@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError", "NancyError\Na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError.Test", "NancyError.Test\NancyError.Test.csproj", "{C555AAA7-9195-4D54-AE54-C42E513BF53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NancyError.Host", "..\NancyError.Host\NancyError.Host.csproj", "{B7E19D03-1046-48D6-9A90-79110A5B13D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{C555AAA7-9195-4D54-AE54-C42E513BF53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C555AAA7-9195-4D54-AE54-C42E513BF53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C555AAA7-9195-4D54-AE54-C42E513BF53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E19D03-1046-48D6-9A90-79110A5B13D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E19D03-1046-48D6-9A90-79110A5B13D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E19D03-1046-48D6-9A90-79110A5B13D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E19D03-1046-48D6-9A90-79110A5B13D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
